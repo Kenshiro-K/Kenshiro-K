@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenshiro-k&label=Profile%20views&color=bc6bff&style=flat-square" alt="kenshiro-k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenshiro-k" alt="kenshiro-k" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenshiro-k" alt="kenshiro-k" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/kennohonki" target="blank"><img src="https://img.shields.io/twitter/follow/kennohonki?logo=twitter&style=for-the-badge" alt="kennohonki" /></a> </p>
 
