@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kenshiro Kikuchi</h1>
+<h1 align="center">Hi there👋, I'm Kenshiro Kikuchi</h1>
 <h3 align="center">A passionate frontend & Dapps developer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenshiro-k&label=Profile%20views&color=bc6bff&style=flat-square" alt="kenshiro-k" /> </p>
