@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Contract Wallet, Dapps & English**
 
-- 💵 Wallet Address ('buy me a coffee!!') [0xdf002BE3BC3Ca0298F6CDCa8CC587E9AD5104825](0xdf002BE3BC3Ca0298F6CDCa8CC587E9AD5104825)
-
 - 💬 Ask me about **Solidity, Next.js, TypeScript**
 
 - ⚡ Fun fact **I think I am funny**
